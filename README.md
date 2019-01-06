@@ -6,15 +6,15 @@ https://enriquecardoza.github.io/IslandDeliveryPlayable/
 
   Controls:
   
--To select a trop click on the flag, the buttons at the bottom left or the buttons "1", "2", "3", "4".
--To changue the game speed use the middle buttons or "a", "s", "d".
--To move a troop right click on the point you want they go
+- To select a troop, there are three options: to click on the flag, the buttons at the bottom left or the buttons "1", "2", "3", "4".
+- To changue the game speed, use the middle buttons or "a", "s", "d".
+- To move a troop, right click on the destination point you want they to go.
 
-  Advanced controls(Buttons at the botton rigth):
+  Advanced controls (Buttons at the botton right):
   
--Add a soldier to the selected troop: First button or "q"
--Create a new troop: Second button or "w"
--Changue the weapon of the troop: Third button or "e"
+- To add a soldier to the selected troop: use first button or "q".
+- To create a new troop: use second button or "w".
+- To changue the weapon of the troop: use third button or "e".
 
 
 
