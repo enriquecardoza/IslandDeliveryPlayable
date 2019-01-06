@@ -6,7 +6,7 @@ https://enriquecardoza.github.io/IslandDeliveryPlayable/
 
   Controls:
   
-- To select a troop, there are three options: to click on the flag, the buttons at the bottom left or the buttons "1", "2", "3", "4".
+- To select a troop, there are three options: to click on the banner, the buttons at the bottom left or the buttons "1", "2", "3", "4".
 - To changue the game speed, use the middle buttons or "a", "s", "d".
 - To move a troop, right click on the destination point you want they to go.
 
