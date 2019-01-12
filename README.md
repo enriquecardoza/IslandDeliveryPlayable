@@ -4,6 +4,9 @@
 Link to the game:
 https://enriquecardoza.github.io/IslandDeliveryPlayable/
 
+  Objetive:
+ - Protec the carriague until it arrives to the end.
+
   Controls:
   
 - To select a troop, there are three options: to click on the banner, the buttons at the bottom left or the buttons "1", "2", "3", "4".
