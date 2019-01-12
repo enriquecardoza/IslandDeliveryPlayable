@@ -5,7 +5,7 @@ Link to the game:
 https://enriquecardoza.github.io/IslandDeliveryPlayable/
 
   Objetive:
- - Protec the carriague until it arrives to the end.
+ - Protect the carriague until it arrives to the end.
 
   Controls:
   
